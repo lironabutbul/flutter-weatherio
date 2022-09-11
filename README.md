@@ -245,7 +245,7 @@ Distributed under the MIT License. See [LICENSE.txt](https://github.com/ladunjex
 <!-- Contact -->
 ## :handshake: Contact
 
-Your Name - [@lironabutbul6](https://twitter.com/lironabutbul6) - [@ladunjexa](https://t.me/ladunjexa)
+Liron Abutbul - [@lironabutbul6](https://twitter.com/lironabutbul6) - [@ladunjexa](https://t.me/ladunjexa)
 
 Project Link: [https://github.com/ladunjexa/weatrio-app](https://github.com/ladunjexa/weatrio-app)
 
