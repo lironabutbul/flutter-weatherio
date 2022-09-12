@@ -73,8 +73,8 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="readme_assets/city_page.png" height="auto" width="200" />
-  <img src="readme_assets/welcome_page.png" height="auto" width="200" />
+  <img src="readme_assets/city_page.png" height="auto" width="32%" />
+  <img src="readme_assets/welcome_page.png" height="auto" width="32%" />
 </div>
 <br />
 "Weatrio App" is an Weather Application that allows you to check the weather in different cities around the world.
