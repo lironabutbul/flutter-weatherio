@@ -1,20 +1,3 @@
-<!--
-Hey, thanks for using the awesome-readme-template template.  
-If you have any enhancements, then fork this project and create a pull request 
-or just open an issue with the label "enhancement".
-
-Don't forget to give this project a star for additional support ;)
-Maybe you can mention me or this repo in the acknowledgements too
--->
-
-<!--
-This README is a slimmed down version of the original one.
-Removed sections:
-- Screenshots
-- Running Test
-- Deployment
-- FAQ
--->
 <a name="readme-top"></a>
 <div align="center">
 
@@ -50,7 +33,7 @@ Removed sections:
   </a>
 </p>
    
-<!-- <h4>
+ <h4>
     <a href="https://github.com/ladunjexa/weatrio-app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/ladunjexa/weatrio-app">Documentation</a>
@@ -58,7 +41,7 @@ Removed sections:
     <a href="https://github.com/ladunjexa/weatrio-app/issues/">Report Bug</a>
   <span> · </span>
     <a href="https://github.com/ladunjexa/weatrio-app/issues/">Request Feature</a>
-  </h4> -->
+  </h4>
 </div>
 
 <br />
@@ -199,7 +182,7 @@ Start the application
 ## :eyes: Usage
 
 "Weatrio App" rely on an external dependencies and services like OpenWeatherMap API and Geolocator.<br/>
-Therefore, in order for the application to work correctly, you will need to obtain get a **free API Key** at https://openweathermap.org/<br/>
+Therefore, in order for the application to work correctly, you will need to obtain a **free API Key** at https://openweathermap.org/<br/>
 
 After you get your free API key, look for `weather.dart` which located in `lib/services/`.<br/>
 Search for the following line, and replace the string with your new API key.
